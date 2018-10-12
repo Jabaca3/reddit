@@ -1,1 +1,1 @@
-
+Accessing reddit url using praw, I used an NLTK (machine learning algorithm) in order to process comments from a reddit thread to declare them positive, negative, or neutral. With this information I sorted them into lists. 
